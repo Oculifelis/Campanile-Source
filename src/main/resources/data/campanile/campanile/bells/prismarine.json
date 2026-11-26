@@ -1,0 +1,10 @@
+{
+  "item": "campanile:prismarine_handbell",
+  "radius": 8.0,
+  "cooldown": 50,
+  "strength": 1.0,
+  "water_multiplier": 2.0,
+  "chime_multiplier": 1.5,
+  "pitch": 0.8,
+  "sound": "campanile:bell.prismarine"
+}

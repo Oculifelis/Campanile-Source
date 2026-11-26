@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:gold_nugget",
+    "minecraft:gold_nugget",
+    "minecraft:iron_nugget",
+    "#c:strings"
+  ],
+  "result": {
+    "id": "campanile:chime_pin",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    " N ",
+    "SSS"
+  ],
+  "key": {
+    "I": "#c:ingots/iron",
+    "N": "minecraft:note_block",
+    "S": "minecraft:smooth_stone_slab"
+  },
+  "result": {
+    "id": "campanile:tuning_anvil",
+    "count": 1
+  }
+}

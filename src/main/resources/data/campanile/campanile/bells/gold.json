@@ -1,0 +1,10 @@
+{
+  "item": "campanile:gold_handbell",
+  "radius": 10.0,
+  "cooldown": 30,
+  "strength": 1.2,
+  "water_multiplier": 1.0,
+  "chime_multiplier": 1.5,
+  "pitch": 1.15,
+  "sound": "campanile:bell.gold"
+}

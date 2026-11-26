@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:copper_nugget",
+    "minecraft:copper_nugget",
+    "minecraft:iron_nugget",
+    "minecraft:leather"
+  ],
+  "result": {
+    "id": "campanile:bell_anklet",
+    "count": 1
+  }
+}

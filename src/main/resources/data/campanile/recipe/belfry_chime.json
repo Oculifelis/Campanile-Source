@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "P P",
+    "P P"
+  ],
+  "key": {
+    "S": "#minecraft:wooden_slabs",
+    "P": "#c:rods/wooden"
+  },
+  "result": {
+    "id": "campanile:belfry_chime",
+    "count": 1
+  }
+}

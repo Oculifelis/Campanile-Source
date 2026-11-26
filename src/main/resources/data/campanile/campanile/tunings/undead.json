@@ -1,0 +1,22 @@
+{
+  "creature": "undead",
+  "reagent": "minecraft:bone",
+  "pitch": 0.8,
+  "color": "#D8D2B8",
+  "partials": [
+    3,
+    5,
+    4
+  ],
+  "actions": [
+    {
+      "type": "push",
+      "distance": 4.0
+    },
+    {
+      "type": "effect",
+      "effect": "minecraft:weakness",
+      "seconds": 6.0
+    }
+  ]
+}

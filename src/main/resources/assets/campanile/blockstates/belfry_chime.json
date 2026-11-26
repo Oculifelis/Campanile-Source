@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "has_bell=false": {
+      "model": "campanile:block/belfry_chime"
+    },
+    "has_bell=true": {
+      "model": "campanile:block/belfry_chime_hung"
+    }
+  }
+}

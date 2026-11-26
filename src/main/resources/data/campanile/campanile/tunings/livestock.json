@@ -1,0 +1,17 @@
+{
+  "creature": "livestock",
+  "reagent": "minecraft:wheat",
+  "pitch": 1.1,
+  "color": "#E3C45A",
+  "partials": [
+    2,
+    3,
+    2
+  ],
+  "actions": [
+    {
+      "type": "call",
+      "speed": 1.1
+    }
+  ]
+}

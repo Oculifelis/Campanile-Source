@@ -1,0 +1,23 @@
+{
+  "creature": "construct",
+  "reagent": "minecraft:redstone",
+  "pitch": 0.6,
+  "color": "#A8A8B0",
+  "partials": [
+    6,
+    2,
+    4
+  ],
+  "actions": [
+    {
+      "type": "effect",
+      "effect": "minecraft:slowness",
+      "seconds": 6.0,
+      "amplifier": 1
+    },
+    {
+      "type": "discord",
+      "seconds": 8.0
+    }
+  ]
+}

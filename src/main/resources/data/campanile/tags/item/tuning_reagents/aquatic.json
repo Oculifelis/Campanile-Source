@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:prismarine_crystals",
+    {
+      "id": "#perigee:phase_salts",
+      "required": false
+    }
+  ]
+}

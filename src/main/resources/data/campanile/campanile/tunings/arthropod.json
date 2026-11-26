@@ -1,0 +1,22 @@
+{
+  "creature": "arthropod",
+  "reagent": "minecraft:spider_eye",
+  "pitch": 1.2,
+  "color": "#7A3B2E",
+  "partials": [
+    2,
+    4,
+    5
+  ],
+  "actions": [
+    {
+      "type": "push",
+      "distance": 3.0
+    },
+    {
+      "type": "effect",
+      "effect": "minecraft:slowness",
+      "seconds": 5.0
+    }
+  ]
+}

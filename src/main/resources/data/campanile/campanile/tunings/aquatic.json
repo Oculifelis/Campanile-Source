@@ -1,0 +1,17 @@
+{
+  "creature": "aquatic",
+  "reagent": "#campanile:tuning_reagents/aquatic",
+  "pitch": 0.7,
+  "color": "#5FB6A8",
+  "partials": [
+    5,
+    4,
+    3
+  ],
+  "actions": [
+    {
+      "type": "push",
+      "distance": 3.5
+    }
+  ]
+}

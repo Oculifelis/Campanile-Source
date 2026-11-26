@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " S ",
+    " M ",
+    "MNM"
+  ],
+  "key": {
+    "S": "#c:rods/wooden",
+    "M": "#c:ingots/gold",
+    "N": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "campanile:gold_handbell",
+    "count": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "bell.copper": {
+    "subtitle": "subtitles.campanile.bell",
+    "sounds": [
+      "campanile:bell/copper"
+    ]
+  },
+  "bell.iron": {
+    "subtitle": "subtitles.campanile.bell",
+    "sounds": [
+      "campanile:bell/iron"
+    ]
+  },
+  "bell.gold": {
+    "subtitle": "subtitles.campanile.bell",
+    "sounds": [
+      "campanile:bell/gold"
+    ]
+  },
+  "bell.amethyst": {
+    "subtitle": "subtitles.campanile.bell",
+    "sounds": [
+      "campanile:bell/amethyst"
+    ]
+  },
+  "bell.prismarine": {
+    "subtitle": "subtitles.campanile.bell",
+    "sounds": [
+      "campanile:bell/prismarine"
+    ]
+  },
+  "bell.small": {
+    "subtitle": "subtitles.campanile.bell",
+    "sounds": [
+      "campanile:bell/small"
+    ]
+  },
+  "block.tuning_anvil.tune": {
+    "subtitle": "subtitles.campanile.tune",
+    "sounds": [
+      "campanile:block/tune"
+    ]
+  }
+}

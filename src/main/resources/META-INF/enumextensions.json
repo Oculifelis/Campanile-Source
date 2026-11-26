@@ -1,0 +1,10 @@
+{
+  "entries": [
+    {
+      "enum": "net/minecraft/client/model/HumanoidModel$ArmPose",
+      "name": "CAMPANILE_HANDBELL_HELD_OUT",
+      "constructor": "(ZZLnet/neoforged/neoforge/client/IArmPoseTransformer;)V",
+      "parameters": {"class": "com/oculifelis/campanile/client/HandbellPose", "field": "HELD_OUT"}
+    }
+  ]
+}

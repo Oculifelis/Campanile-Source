@@ -1,0 +1,10 @@
+{
+  "item": "campanile:copper_handbell",
+  "radius": 6.0,
+  "cooldown": 40,
+  "strength": 0.8,
+  "water_multiplier": 1.0,
+  "chime_multiplier": 1.5,
+  "pitch": 0.9,
+  "sound": "campanile:bell.copper"
+}

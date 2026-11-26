@@ -1,0 +1,12 @@
+{
+  "item": "campanile:chime_pin",
+  "radius": 5.0,
+  "cooldown": 160,
+  "strength": 0.8,
+  "triggers": [
+    "mob_hit",
+    "element"
+  ],
+  "sound": "campanile:bell.small",
+  "pitch": 1.4
+}

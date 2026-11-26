@@ -1,0 +1,257 @@
+{
+  "replace": false,
+  "values": {
+    "campanile:copper_handbell": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:metallum",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:aer",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:instrumentum",
+          "amount": 1
+        }
+      ]
+    },
+    "campanile:iron_handbell": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:metallum",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:aer",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:instrumentum",
+          "amount": 1
+        }
+      ]
+    },
+    "campanile:gold_handbell": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:desiderium",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:aer",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:instrumentum",
+          "amount": 1
+        }
+      ]
+    },
+    "campanile:amethyst_handbell": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:vitreus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:aer",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:instrumentum",
+          "amount": 1
+        }
+      ]
+    },
+    "campanile:prismarine_handbell": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:aqua",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:aer",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:instrumentum",
+          "amount": 1
+        }
+      ]
+    },
+    "campanile:chime_pin": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:desiderium",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:praemunio",
+          "amount": 1
+        }
+      ]
+    },
+    "campanile:bell_anklet": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:metallum",
+          "amount": 1
+        },
+        {
+          "aspect": "thaumaturge:motus",
+          "amount": 1
+        },
+        {
+          "aspect": "thaumaturge:praemunio",
+          "amount": 1
+        }
+      ]
+    },
+    "campanile:tuning_hammer": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:instrumentum",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:metallum",
+          "amount": 3
+        },
+        {
+          "aspect": "thaumaturge:ordo",
+          "amount": 2
+        }
+      ]
+    },
+    "campanile:tuning_anvil": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:metallum",
+          "amount": 8
+        },
+        {
+          "aspect": "thaumaturge:ordo",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 3
+        },
+        {
+          "aspect": "thaumaturge:fabrico",
+          "amount": 2
+        }
+      ]
+    },
+    "campanile:belfry_chime": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:mod_loaded",
+          "modid": "thaumaturge"
+        }
+      ],
+      "value": [
+        {
+          "aspect": "thaumaturge:herba",
+          "amount": 4
+        },
+        {
+          "aspect": "thaumaturge:sensus",
+          "amount": 3
+        },
+        {
+          "aspect": "thaumaturge:aer",
+          "amount": 2
+        },
+        {
+          "aspect": "thaumaturge:metallum",
+          "amount": 1
+        }
+      ]
+    }
+  }
+}

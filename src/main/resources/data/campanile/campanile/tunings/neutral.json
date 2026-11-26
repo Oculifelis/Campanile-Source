@@ -1,0 +1,17 @@
+{
+  "creature": "neutral",
+  "reagent": "minecraft:honey_bottle",
+  "pitch": 1.05,
+  "color": "#E8A63A",
+  "partials": [
+    3,
+    3,
+    4
+  ],
+  "actions": [
+    {
+      "type": "pacify",
+      "seconds": 30.0
+    }
+  ]
+}

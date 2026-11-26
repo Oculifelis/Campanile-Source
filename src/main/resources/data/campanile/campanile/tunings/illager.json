@@ -1,0 +1,22 @@
+{
+  "creature": "illager",
+  "reagent": "minecraft:emerald",
+  "pitch": 0.95,
+  "color": "#3E8E5A",
+  "partials": [
+    4,
+    3,
+    6
+  ],
+  "actions": [
+    {
+      "type": "push",
+      "distance": 2.5
+    },
+    {
+      "type": "effect",
+      "effect": "minecraft:glowing",
+      "seconds": 10.0
+    }
+  ]
+}

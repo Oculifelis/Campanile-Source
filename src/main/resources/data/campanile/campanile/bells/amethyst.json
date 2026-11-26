@@ -1,0 +1,10 @@
+{
+  "item": "campanile:amethyst_handbell",
+  "radius": 9.0,
+  "cooldown": 50,
+  "strength": 1.0,
+  "water_multiplier": 1.0,
+  "chime_multiplier": 2.0,
+  "pitch": 1.3,
+  "sound": "campanile:bell.amethyst"
+}

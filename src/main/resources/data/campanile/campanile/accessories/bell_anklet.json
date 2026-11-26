@@ -1,0 +1,12 @@
+{
+  "item": "campanile:bell_anklet",
+  "radius": 4.0,
+  "cooldown": 120,
+  "strength": 0.7,
+  "triggers": [
+    "fall",
+    "mob_hit"
+  ],
+  "sound": "campanile:bell.small",
+  "pitch": 1.2
+}

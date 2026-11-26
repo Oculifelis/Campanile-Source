@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "campanile:block/tuning_anvil"
+    },
+    "facing=east": {
+      "model": "campanile:block/tuning_anvil",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "campanile:block/tuning_anvil",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "campanile:block/tuning_anvil",
+      "y": 270
+    }
+  }
+}
