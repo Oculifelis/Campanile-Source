@@ -1,6 +1,6 @@
 modLoader = "javafml"
 license = "${mod_license}"
-issueTrackerURL="https://github.com/Oculifelis/Campanile/issues"
+issueTrackerURL="https://github.com/Oculifelis/Campanile-Source/issues"
 enumExtensions="META-INF/enumextensions.json"
 
 [[mods]]
